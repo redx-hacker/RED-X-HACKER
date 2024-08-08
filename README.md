@@ -9,14 +9,13 @@
 
 - Linux ( Termux, Kali linux...) 
   ```
-  git clone https://github.com/mfr-fr/phone-info.git
-  cd phone-info
-  pip install -r requirements.txt
-  python phone-info.py
+  git clone https://github.com/redx-hacker/RED-X-HACKER
+  ls RED-X-HACKER
+  python 'Redx Phone Number Info.py'
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/phone-info.git && cd phone-info && pip install -r requirements.txt && python phone-info.py
+  git clone https://github.com/redx-hacker/RED-X-HACKER && cd RED-X-HACKER && python 'Redx Phone Number Info.py'
   ```
 ##
 -----
