@@ -22,7 +22,7 @@
 
 <h2><p align="center">📷Picture📷</p></h2>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1006288165012766751/1036795135628939327/unknown.png", width="300", height="300">
+<img src="https://t.me/REDX_HACKING/169", width="300", height="300">
 </p>
 
  <h2><p align="center">📋Dependencies📋</p></h2>
@@ -48,4 +48,4 @@
 <br><br>
 
 ## <h2><p align="center">✏️Author✏️</p></h2>
-* **MFR** - [Github](https://github.com/mfr-fr)
+* **RED-X** - [Telegram](https://t.me/REDX_HACKING)
