@@ -10,7 +10,7 @@
 - Linux ( Termux, Kali linux...) 
   ```
   git clone https://github.com/redx-hacker/redx_info
-  ls redx_info
+  cd redx_info
   python 'Redx Phone Number Info.py'
   ```
   You can do it all in one command.
